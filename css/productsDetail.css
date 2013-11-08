@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+.example {
+    border: 1px solid #CCC;
+    background: #f2f2f2;
+    padding: 10px;
+  }
+  ul {
+    list-style-image:url(list-style.gif);
+  }
+	
+  pre {
+    font-family: "Lucida Console", "Courier New", Verdana;
+    border: 1px solid #CCC;
+    background: #f2f2f2;
+    padding: 10px;
+  }
+  code {
+    font-family: "Lucida Console", "Courier New", Verdana;
+    margin: 0;
+    padding: 0;
+  }
+
+  #gallery {
+    margin: 0 auto;
+    padding: 30px;
+    background: #000;
+  }
+  #descriptions {
+    position: relative;
+    height: 50px;
+    background: #000;
+    margin-top: 10px;
+    width: 640px;
+    padding: 10px;
+    overflow: hidden;
+  }
+    #descriptions .ad-image-description {
+      position: absolute;
+    }
+      #descriptions .ad-image-description .ad-description-title {
+        display: block;
+      }
+      
+/* メインコンテンツ */
+#main{
+  width: 940px;
+  height: auto;
+  margin-top: 5px;
+  overflow: hidden;
+}
+/* メイン右側 */
+#content{
+  width: 930px;
+  height: auto;
+  margin-top: 10px;
+  float: right;
+}
+.brands{
+  margin: 0 8px 0 9px;
+  padding: 5px;
+  color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 3px #444 solid;
+}
+#sidebar{
+  margin-top: 10px;
+/*  width: 150px;
+  float: left;*/
+}
+.brandList{
+  margin: 20px;
+  width: 910px;
+}
+.brandList img{
+  margin: 5px;
+  width: 140px;
+}
+iframe{
+  padding: 15px 0;
+  width: 940px;
+  height: 800px;
+  border: none;
+}
+
+

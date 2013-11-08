@@ -1,0 +1,107 @@
+﻿DROP TABLE ;
+********************************************
+********************************************
+
+CREATE TABLE products
+ (
+   id  integer NOT NULL AUTO_INCREMENT,
+   brand varchar(30) NOT NULL,
+   number varchar(4) NOT NULL,
+   extension varchar(4) NOT NULL,
+   description varchar(64),
+   up_date datetime,
+
+   PRIMARY KEY(id)
+ );
+
+
+********************************************
+
+
+INSERT INTO products
+ (brand, number, extension, description, up_date)
+ VALUES('', '', '', '', NOW()),
+       ('', '', '', '', NOW()),
+       ('', '', '', '', NOW());
+
+
+*********************************************
+*********************************************
+
+CREATE TABLE tour
+ (
+   id  integer NOT NULL AUTO_INCREMENT,
+   title varchar(64) NOT NULL,
+   content varchar(256) NOT NULL,
+   enTitle varchar(64) NOT NULL,
+   enContent varchar(256) NOT NULL,
+
+   PRIMARY KEY(id)
+ );
+
+
+***********************************************
+INSERT INTO tour
+ (title, content, enTitle, enContent)
+ VALUES('',
+        '',
+        '',
+        '');
+
+**********************************************
+
+*****************************************************************************
+*****************************************************************************
+
+
+CREATE TABLE riders
+ (
+   id  integer NOT NULL AUTO_INCREMENT,
+   name varchar(30) NOT NULL,
+   interview varchar(20000) NOT NULL,
+   count integer(2),
+
+   PRIMARY KEY(id)
+ );
+***********************************************
+INSERT INTO riders
+ (name, interview, count)
+ VALUES('',
+        '',
+        '');
+
+
+***********************************************
+CREATE TABLE admin_login
+ (
+   id  integer NOT NULL AUTO_INCREMENT,
+   user varchar(20) NOT NULL,
+   pass varchar(200) NOT NULL,
+
+   PRIMARY KEY(id)
+ );
+
+***********************
+
+INSERT INTO admin_login
+ (user, pass)
+ VALUES('maffi', 'ac5d20ef92b6a57512bbed515d8b10a1db1a6037');
+
+kings
+
+*************************************************************
+
+CREATE TABLE mailform_data(
+  id integer NOT NULL AUTO_INCREMENT,
+  name varchar(32) NOT NULL,
+  mail varchar(256) NOT NULL,
+  sex varchar(1) NOT NULL,
+  tel varchar(12) NOT NULL,
+  job varchar(64) NOT NULL,
+  word varchar(256) NOT NULL,
+  mail_flag tinyint(4) NOT NULL,
+  create_date datetime,
+  PRIMARY KEY(id)
+);
+
+*****************************************************************

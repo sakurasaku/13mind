@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+/* メインコンテンツ */
+#main{
+  width: 940px;
+  height: auto;
+  overflow: hidden;
+}
+/* メイン */
+#content{
+  margin: 0 auto;
+  width: 640px;
+  float: right;
+}
+#content form{
+  margin: 20px;
+  padding-right: 100px;
+  width: 600px;
+}
+.area{
+  margin: 20px;
+  padding-top: 20px;
+  width: 600px;
+}
+#area_fin{
+  margin: 50px;
+  width: 600px;
+}
+p{
+  color: #EEE;
+  font-weight: bold;
+}
+.head{
+  padding-left: 5px;
+  height: 25px;
+  font-size: 16px;
+}
+.foot{
+  margin-top: 10px;
+  padding: 10px 5px;
+  width: 300px;
+  height: 18px;
+  clear: both;
+}
+.notice{
+  color: #EEE;
+}
+.error_text{
+  color: red;
+    clear: both;
+}
+a{
+  color: #EEE;
+  text-decoration: none;
+}
+
+#sideBar{
+  width: 300px;
+}
+#sideBar img{
+  margin: 50px 50px;
+}
+
+.form{
+  margin: 10px 8px 0 9px;
+  color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 3px #444 solid;
+}
+.ask{
+  margin: 5px 0 5px 0;
+  width: 200px;
+  color: #EEE;
+  font-weight: bold;
+  float: left;
+}
+.sub{
+  margin: 5px;
+  width: 80px;
+  color: #EEE;
+  font-weight: bold;
+  float: left;
+}
+.answer{
+  margin: 5px;
+  width: 450px;
+  color: #EEE;
+  font-weight: bold;
+  float: left;
+}
+.input{
+  width: 250px;
+  color: #FFF;
+  background-color: #222;
+  font-weight: bold;
+  font-size: 16px;
+  border-style: none;
+}
+.text{
+  height: 150px;
+  width: 390px;
+  color: #FFF;
+  background-color: #222;
+  font-weight: bold;
+  font-size: 16px;
+  border-style: none;
+  float: left;
+}
+.item{
+  margin: 2px;
+  height: 22px;
+}
+.item2{
+  margin: 2px 2px 7px 2px;
+  height: 33px;
+}
+.btn{
+  margin-left: 200px;
+  padding-top: 10px;
+  color: #FFF;
+  background-color: #000;
+  font-weight: bold;
+  font-size: 14px;
+  border-style: none;
+}
+.send{
+  margin: 0 15px 0 5px;
+}
+.back{
+  margin-left: 45px;
+}
+.sent_msg{
+  height: 21px;
+  font-weight: bold;
+  font-size: 16px;
+}
+.home{
+  margin: 30px 0 0 60px;
+  padding-top: 20px;
+}

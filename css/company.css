@@ -1,0 +1,66 @@
+﻿@charset "UTF-8";
+
+/* メインコンテンツ */
+#main{
+  width: 940px;
+  height: auto;
+	overflow: hidden;
+}
+/* メイン */
+#content{
+  margin: 0 auto;
+  width: 940px;
+}
+table{
+  margin-top: 10px;
+  border: 0;
+  width: 400px;
+  border-collapse: collapse;
+  float: right;
+}
+
+.wide{
+  width: 150px;
+}
+td{
+  width:160px;
+}
+.outline{
+  margin: 10px 8px 0 9px;
+  color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 3px #444 solid;
+}
+.wrapper{
+  width: 460px;
+  height: 200px;
+  float: left;
+}
+.box{
+  margin: 10px auto;
+  width: 300px;
+  vertical-align: middle;
+}
+.box img{
+  width: 300px;
+}
+.banner{
+  padding: 2px 4px 2px 3px;
+}
+p{
+  padding-top: 5px;
+  width: 150px;
+  color: #FFF;
+}
+.wide{
+  width: 450px;
+}
+.mail{
+  text-decoration: none;
+}
+#sideBar{
+  width: 300px;
+}
+
+

@@ -1,0 +1,100 @@
+INSERT INTO tour
+ (title, content, enTitle, enContent)
+ VALUES('01.セールス部',
+        'セールス部はボード戦争の最前線にいます。彼等個人個人はあなたの好みの店とコンスタントに連絡を取り、君が何を私たちから見たいか見つけだしたいか、ボードがあなたのために非常時の時でも常にあることを確かめています!',
+        '01.The sales department ',
+        'The sales department is the front line in the war on shitty boards. These dedicated individuals are in constant contact with your favorite shop, finding out what you want to see from us, and making sure that there is always Premium boards available for you in case of emergency! ');
+
+********************************************
+
+INSERT INTO tour
+ (title, content, enTitle, enContent)
+ VALUES('02.グラフィック部',
+        'グラフィック部はあなたのアイデアや提案が私達のデッキ、デザイン、マガジン、アド、かっこいいウェブサイトデザインに生きるように根気強く働いてます。あなたが今楽しんでいるこのすばらしい工場ツアーのようにね。',
+        '02.The Graphics department ',
+        'The Graphics department works tirelessly to bring your ideas and suggestions to life in our deck graphs, magazine ads, and fantastic website designs, such as the wonderful Factory Tour you are now enjoying. ');
+
+**********************************************
+INSERT INTO tour
+ (title, content, enTitle, enContent)
+ VALUES('03.木の準備',
+        'これはプレミアムスケートボードデッキ作成の第一歩である。木は私達の所に届いた後、乾燥しないように温度制御された環境にすぐ置きます。デッキの各層は、フェイシングというプロセスで磨かれてます。それは接着剤を均等に塗り、ボードの空気泡を避けるためのスムーズな表面を作り出します。',
+        '03.Wood Preparation',
+        'This is this first step in the creation of your Premium Skateboards deck. After the wood arrives at our door, it is immediately placed in a climate-controlled environment to make sure that it doesnﾕt dry out. Each ply of your deck is pre-sanded, a process called facing, to produce a smooth surface on which the glue can be evenly distributed to avoid air bubbles in your board. It also means no splinters for the delicate hands of our plant employees…….');
+***********************************************
+INSERT INTO tour
+ (title, content, enTitle, enContent)
+ VALUES('04.グルー付け',
+        'ボードに乗ってる時にボードが割れたり、剥離した事はありますか？ここはそれが起きないようにするとこです。私達の熟練労働者は懸命に私達のスペシャル接着剤でそれぞれの板をくっつけてます。プレスに届いた時にスケートボードの歴史とくっつく準備ができています！',
+        '04.Applying the Glue',
+        'Ever have a board that came apart on you? Well this is where we first make sure that this wonﾕt happen. Our skilled workers painstakingly apply our special glue formula to make sure that every bit of the wood is covered, so that when they reach the presses they are ready to be forever joined in skateboard history!');
+***********************************************
+INSERT INTO tour
+ (title, content, enTitle, enContent)
+ VALUES('05.ラミネーション',
+        'これが普通のスケートデッキとプレミアムデッキの違いです。5 本以上の板を一度にプレスしないことによって、私達は全部のボードに同じコンケーブを与えられ、油圧機からでてくる板は全て同じ圧力を受けてる事を確認します。（他の会社では、10本や20本を一度にプレスするため、コンケーブ違いや、板の接着力に差が生まれます）',
+        '05.Lamination',
+        'This is where the difference between a regular skateboard and a Premium Skateboards deck occurs. By pressing no more than 5 boards at a time, we are able to ensure that every board has exactly the right amount of concave, and has received an equal amount of pressure from the hydraulic presses as every other board we make.'),
+        
+        ('06.ドライ',
+        'ボードは３日かけて乾燥させてメチャクチャ堅いプレミアムデッキになる前に、あらゆる空気泡を取り除く為に、少なくとも1.5 時間を極度な圧力をかけます。これにかかる時間をカットしてもっとお金をもうける事ができるんだけど、他の会社とは違ってスケートボードを大事に扱っています!',
+        '06.Drying ',
+        'We don&apos;t fool around here. Every board spends at least 1.5 hours under extreme pressure, to press out any air bubbles, before spending at least 3 days drying to a rock hard Premium deck. We could cut these times short to go faster and make more money, but unlike other companies, we care about skateboarding!'),
+        
+        ('07.精密なドリル',
+        '今までドリルしなおしたりトラックをつけるのに大変だったボードを買ったありますか？
+プレミアムボードを買いませんでしたね！私達は最新式のレーザーを使って8 つの穴すべてを同時にあけます。正確で精密な事を保障します!',
+        '07.Precision Drilling',
+        'Have you ever bought a board that you had to re-drill or fight with to fit your trucks on? Then you didn&apos;t buy a Premium deck did you! We use state of the art laser guided drills that drill all eight holes through your deck at the same time, ensuring accurate and unmatched precision that you can count on every time!'),
+        
+        
+        ('08.ラフカット',
+        'ボードはすばらしく、エキサイトな形になる前に、大きい木のカードの束のように見えます。ラフカットは各ボードに事前にドリルされたトラックの穴の型を使いボードのベーシックな形を作ります。',
+        '08.Ruff Cut',
+        'Before a skateboard is shaped into the amazing and exciting shapes you know and love from Premium Skateboards, it pretty much looks like a big wooden deck of cards. The Ruff Cut uses the pre-drilled truck holes to give each board a basic shape that is centered around where your trucks will be.'),
+        
+        
+        ('09.スタンピング',
+        'この時点で各デッキはどのタイプのコンケブかスタンプされます。
+A-G はミディアム-コンケブ、H-M はハイキック-コンケブ、N-O はフラット-コンケブ というように。シェイプナンバーもこの時点で割り当てられます。このナンバーはあなたが好きなシェイプをピックでき毎回他のプレミアムデッキをストアに戻ってまったく同じシェイプ、サイズ、そしてブっ飛んでいるスケーターにするコンケブのデッキをゲットできるように致しております！（現在このスタンピングはおこなっておりません)',
+        '09.Stamping',
+        'At this point each deck is stamped to tell you what type of concave it has.
+A-G means it has a Medium concave.H-M means it has a High Kick concave.N-O means it has a Flat concave.Each board is also allotted a shape number at this point. This number lets you pick out your favorite shape and make sure that every time you go back to the store to get another Premium deck, you can always get the exact shape, size and concave that makes you the ripper that you are!'),
+        
+        
+        ('10.シェイピング',
+        'ボードのシェイプが決まったので、その形にする時です。この形はマスターシェイプガイドを使用してあらゆるボードは前の形とまったく一緒のものになります。考える余地無し、あなたの好きな完璧なシェイプになります。',
+        '10.Shaping',
+        'So now that your board has been assigned a shape, it&apos;s time to make it that shape. This shape is cut using a master shape guide that ensures that every board is as perfect as the one before. No guessing, just perfect boards in your favorite shapes every time.'),
+        
+        
+        ('11.トリミング',
+        'プレミアムスケートボードがあなたのローカルショップの壁にある他の全てのボードよりかっこいいのはなぜだろう？それは全てのボードが特別にデザインされたルーターを使って手でエッジを丸くするからです。これは仕上げのプロセスのちょうど始まりですが。すごいケアをこのプロセスに使い、プライドを持って全てのデッキが完璧である事を私達は確かめています。',
+        '11.Triming',
+        'How is it that every Premium Skateboard looks so much better than all those other boards on the wall at your local shop? It is because every board is finished by hand using a specially designed router to round the edges to perfection. This is just the beginning of the finishing process though. A great deal of care goes into this process and our employees take a lot of pride in making sure that every deck is perfect. '),
+        
+        
+        ('12.ヤスリがけ',
+        'デッキがトリミングエリアを通ったら、各ボードは３段階からなるやすりがけのプロセスに行きます。デッキのやすりがけでラフなエッジはあなたがゲットする前にスムーズになります。全てのプレミアムボードはペイントショップに行く前に最終的にクリーンでスムースな仕上がりになります。これもシェイパーによるハンドメイドだからこそなせる技なのです。',
+        '12.Sanding',
+        'Once the decks have left the trimming area, each one goes through a three-stage hand sanding process. The sanding of your deck ensures that all rough edges are smoothed out before you get it. The rough edges on your skating are up to you however. Every Premium board is then buffed to final clean smooth finish before moving on to the paint shop.'),
+        
+        
+        ('13.ラッカー塗りとシーリング',
+        '雨の日にスケートしなければならない日の時の湿気そして水からボードを保護するために、私達は最初にシーラーコーティングをします。そしてそれが乾燥すれば、毎回スケートで友達を嫉妬させる美しい輝きをボードに与える為に、ラッカーコーティングをほどこします。',
+        '13.Lacquering and Sealing',
+        'In order to protect your board from moisture and water on those days when it&apos;s raining but you just have to skate, we then first apply a coating of sealer. Once it is dry, a coating of lacquer is applied to give it that beautiful shine that makes your friends so jealous every time you skate with them. '),
+        
+        
+        ('14.グラフィック',
+        'これでプレミアムデッキはスケートできる状態になりました。ただ一つだけあなたのドリームデッキにするために残された事があります、、、それはグラフィックです。デッキ作りのプロセスの初めにグラフィック部で設計されていたグラフィックを乗っけます。プレミアムのグラフィックはクールという事を知ってると思いますが、デッキの最も重要なパートは木であってプレミアムデッキはベストウッドだって事もしってますよね。',
+        '14.Graphing',
+        'Now that your Premium deck is finished and ready to be skated, there is only one thing left to do to make it the board of your dreamsﾉapply the graphics. We can now put the graphics that were designed in the graphics department back at the beginning of the process on to your deck. Although you know that Premium Skateboard&apos;s graphics are the coolest out there, you also know that the most important part of your board is the wood, and Premium decks are the best wood available hands down. '),
+        
+        
+        ('15.ライドだー！',
+        'プレミアムスケートファクトリーツアーに参加してくれてありがとう、そして私達が愛するスポーツのサポートもありがとうございます。かたくるしー文字はもういいぜー、今すぐコンピュータの前に座ることをやめてGo Ride!',
+        '15.Now go Ride!',
+        'Thanks for joining us here at the Premium Skateboards Factory, and thanks for supporting the sport we all love.
+Now quit sitting in front of your computer and Go Ride!');
+

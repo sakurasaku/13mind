@@ -1,0 +1,265 @@
+<div id="content"><!-- 内容 -->
+        <h2 class="interview">INTERVIEW</h2>
+        <div class="item"><!-- 箱 -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">名前：</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">上田 豪 <br>GO UEDA</p>
+          </div> <!-- /#columnRight -->
+          
+          <div class="wrapper"><!-- 入れ物 -->
+            <div class="columnLeft"><!-- 質問 -->
+              <p class="q">生年月日：</p>
+            </div> <!-- /#columnLeft -->
+            <div class="columnRight"><!-- 答え -->
+              <p class="comments">1975.8.13</p>
+            </div> <!-- /#columnRight -->
+          </div> <!-- /#wrapper --> 
+          <div class="wrapper"><!-- 入れ物 -->
+            <div class="columnLeft"><!-- 質問 -->
+              <p class="q">出身地：</p>
+            </div> <!-- /#columnLeft -->
+            <div class="columnRight"><!-- 答え -->
+              <p class="comments">柴又＿葛飾、東京(Sibamata-Tokyo)</p>
+            </div> <!-- /#columnRight -->
+          </div> <!-- /#wrapper --> 
+          
+            <div class="columnLeft"><!-- 質問 -->
+              <p class="q">スポンサー：</p>
+            </div> <!-- /#columnLeft -->
+            <div class="columnRight"><!-- 答え -->
+              <p class="comments">Premium skateboards, Balance street wear, redi, Csutom Trucks, Crock Wheels, Vision, Nibansenji </p>
+            </div> <!-- /#columnRight -->
+          
+          
+            <div class="columnLeft"><!-- 質問 -->
+              <p class="q">セットアップ：</p>
+            </div> <!-- /#columnLeft -->
+            <div class="columnRight"><!-- 答え -->
+              <p class="comments">デッキ：Premium WildAnimal2-Goモデル (8×31)<br>トラック：Custom-Gorgeusu13 134<br>ウィール：Crock-skull 53mm<br>ベアリング：Ninbansenji<br>シューズ：Vision</p>
+            </div> <!-- /#columnRight -->
+          
+
+            <div class="columnLeft"><!-- 質問 -->
+              <p class="q">好きな音楽なによ？<br>（アーティスト)</p>
+            </div> <!-- /#columnLeft -->
+            <div class="columnRight"><!-- 答え -->
+              <p class="comments">Nanjyaman H-MAN SHINNOSK8 バーチカル</p>
+            </div> <!-- /#columnRight -->
+
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">好きな食べ物</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">おフランス料理</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">好きな車</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">大型セダン（ベンツ、キャデラック、トヨタ車のでかい奴）</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">好きな芸能人</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">飯島愛、アントニオ猪木</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">好きな格闘家<br>（非回答OK)</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">ドンフライ、ヴァンダレイシウバ、ミルコ、猪木</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">スケーターは<br>誰が好きなのよ？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">1. 13mind ファミリー <br> 2.同率１位でMike V , Alex Gavin, Max Dufour<br> 3.Chris Senn、Josh Evin</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">今まで行った国<br>（もちスケート<br>&nbsp;&nbsp;&nbsp;でだぞ）</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">カナダBC州、 アメリカ　カルフォルニア州、 ミネソタ州</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">どこのどこが良かった？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">カナダ、ノースバンクーバーのコンクリートパーク</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">じゃあ日本は、、、<br>パークでもストリートでも、、、<br>両方書きなさい。</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">ストリートでストークしたのは<br>やっぱ埼玉県、八潮市にあるメセナだな。<br>パークはどこも最高<br>やっぱ行くとこ最高な奴らとセッションできるからね。。<br>クソ警備員やポリスがいないから。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">初めてスケートしたのはいつ？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">13才</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">きっかけは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">チクタクしか見た事なくてさ、ある日先輩が前からプッシュしてきて、工事中のマンホールをオーリーで跳んだんだ。<br>それを見て、こんな事ができるんだと思って何日後には、親父に買ってもらった。</p>
+          </div> <!-- /#columnRight -->
+                <div class="columnLeft"><!-- 質問 -->
+            <p class="q">一番初めに出来たトリックはなに？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">そりゃープッシュだろ。<br>そのあとは雨の日に練習したパワースライド。<br>板がぱすぱすになるって知らなくて、先輩に教えられて、落ち込んだ事を覚えている。</p>
+          </div> <!-- /#columnRight -->
+                <div class="columnLeft"><!-- 質問 -->
+            <p class="q">始めた頃は1人でスケートしてた？仲間と？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">中坊のころは夕方までみんなで、夜は愛犬に引っ張らせて土手で一人でしてた。変なおっさんや警察に良く追いかけられてた。</p>
+          </div> <!-- /#columnRight -->
+                <div class="columnLeft"><!-- 質問 -->
+            <p class="q">初めて付いたスポンサーは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">Balance Street Wear</p>
+          </div> <!-- /#columnRight -->
+                <div class="columnLeft"><!-- 質問 -->
+            <p class="q">なぜついたの？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">Balanceの社長と滑る機会が何度かあって、気にいってもらいたくてとにかく自分をアピールしまくった。</p>
+          </div> <!-- /#columnRight -->
+                <div class="columnLeft"><!-- 質問 -->
+            <p class="q">スケート以外に<br>趣味やハマっている事は？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">なかなか行けないけど、スノーボード。あとは車の燃費調べ</p>
+          </div> <!-- /#columnRight -->
+                <div class="columnLeft"><!-- 質問 -->
+            <p class="q">彼女はいる？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">奥さん</p>
+          </div> <!-- /#columnRight -->
+                <div class="columnLeft"><!-- 質問 -->
+            <p class="q">スケートと彼女を<br>両立させる秘訣は？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">それは一生の課題。。。<br>まあショッピングとか食事にいく時間を作ってあげる事かな？</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">今までやったベストトリックは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">Wicked`sのVertWallにトランスファーでF／S Lip slide</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">何回ぐらいでメイクした？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">覚えてないが、間違いなく30回はやった。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">今まで一番の最悪の怪我は何？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">ケガではなく、たくさんの打撲と擦り傷をしたうえに、体が弱りそこからばい菌が入り髄膜炎という脳の病気にかかって入院した。<br>もう少しで頭開手術をするところだった。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">スケートのケガで<br>手術をした事はあるか？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">2004年9月に手首の手根骨の手術と<br>2005年3月に膝の半月板の手術。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">手術をして良かったか？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">もちろん、手首の稼働域も戻ったし、正座もできるようになった。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">体に対して気を使っている事は？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">もうケガはしたくないから、サポーターやバンテージは必ずつけてる。サプリメントとしてアミノ酸は、疲れてる時に飲む。<br>グルコサミンも飲んでる。あとはやる時はしっかり滑って、<br>やらない時はすぱっとあきらめて、滑らない。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">スケート人生の中で必ず決めたいと思っているトリックは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">ループとビッグエアー（ループは怖え～）</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">最近キッズスケーターが増えて来てるけど、自分に子供が出来たらスケートをやらせたい？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">別に思わない、好きな事をさせたい。<br>（5歳になる息子がいるが、まったくやらない）</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">いくつまでスケートをしたい、またはいくつまでできそう？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">知らん。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">週何回くらいスケートしているの？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">１～２回</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">デッキはどれくらいのペースで変えているの？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">1.5ヶ月に1回か（15～20回乗ったら）<br>テールが思いっきり割れたりしたら。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">トラックは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">1年に2回かな？</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">シューズは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">2ヶ月ぐらいで1足。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">パソコンは持っている？持ってたらMacもしくはWindows？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">Mac</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">パソコンで一番することは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">エ○サイトを見ちゃうかな、、、。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">夢のスケートセッションは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">マイクバレリーとドライブ</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">夢のスケートライフは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">自分の部屋にインディーエアーで帰って来れる家を作る。<br>しかも日本とカナダに、、。</p>
+          </div> <!-- /#columnRight -->
+          <div class="columnLeft"><!-- 質問 -->
+            <p class="q">最後にあなたにとってスケートとは？</p>
+          </div> <!-- /#columnLeft -->
+          <div class="columnRight"><!-- 答え -->
+            <p class="comments">素晴らしい出逢いや、試練を与えてくれる、大事な存在。</p>
+          </div> <!-- /#columnRight -->
+
+          
+        </div> <!-- /#item -->
+      </div> <!-- /#content -->
+      

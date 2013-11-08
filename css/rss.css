@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* メインコンテンツ */
+#main{
+  width: 940px;
+  height: auto;
+  border: 5px;
+  overflow: hidden;
+  background: url("../images/rss/underConstruction.jpg");
+  background-repeat: repeat-x;
+}
+/* メイン右側 */
+#content{
+  width: 595px;
+  height: 190px;
+  margin-top: 10px;
+}
+
+/* メイン左側 */
+#sidebar{
+  width: 340px;
+  height: auto;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  float: left;
+}

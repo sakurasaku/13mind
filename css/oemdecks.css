@@ -1,0 +1,104 @@
+﻿@charset "UTF-8";
+
+/* メインコンテンツ */
+#main{
+  width: 940px;
+  height: auto;
+  margin-top: 5px;
+  overflow: hidden;
+}
+/* メイン右側 */
+#content{
+  width: 595px;
+  height: auto;
+  margin: 10px 9px 0 0;
+	float: right;
+}
+.subtitle{
+	padding-top: 10px;
+	color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+	border-bottom: 3px #444 solid;
+}
+.subtitle2{
+	margin-right: 15px;
+	padding-top:10px;
+	color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+	border-bottom: 3px #444 solid;
+}
+.subtitle3{
+  margin-right: 15px;
+  padding-top:10px;
+  color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+	border-bottom: 3px #444 solid;
+}
+.fact{
+  padding-top: 10px;
+  width: 595px;
+}
+#chuck{
+  margin: 0 auto;
+}
+.wood{
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 10px;
+}
+#chuckInfo{
+  margin: 0 auto;
+  width: 420px;
+}
+#history, #concept{
+  width: 290px;
+  float:left;
+}
+.info2{
+	padding: 10px 0 10px 5px;
+	width: 265px;
+	color: #FFF;
+	line-height: 1.3;
+}
+h3{
+	padding-top: 10px;
+	color: #FFF;
+	font-size: 28px;
+	text-align: center;
+	line-height: 1.4;
+}
+strong{
+	font-weight: bold;
+}
+.likkleP{
+	padding: 10px 0;
+	width: 420px;
+	color: #FFF;
+	line-height: 1.3;
+	text-align: center;
+}
+
+/* メイン左側 */
+#sidebar{
+  width: 320px;
+  height: auto;
+  margin: 10px 0 0 10px;
+  padding-bottom: 20px;
+  float: left;
+}
+.info{
+	padding: 10px 0 0 5px;
+	width: 290px;
+	color: #FFF;
+	line-height: 1.3;
+}
+iframe{
+  width: 295px;
+	height: 295px;
+	border: none;
+}
+
+

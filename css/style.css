@@ -1,0 +1,249 @@
+@charset "UTF-8";
+
+
+/* メインコンテンツ */
+#main{
+  width: 932px;
+  height: auto;
+/*  border-top: 1px #1e90ff solid; */
+  overflow: hidden;
+}
+/* メイン右側 */
+#content{
+  width: 585px;
+  height: auto;
+  margin-top: 10px;
+  float: right;
+}
+/* スライドショーのサイズ */
+.slidePic{
+  width: 585px;
+  height: 445px;
+}
+/* この先新着の内容に関わるもの */
+#news{
+  
+}
+.new{
+  padding-top:10px;
+  color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 3px #444 solid;
+}
+.items{
+  margin-bottom: 20px;
+  width: 195px;
+  height: 290px;
+  float: left;
+  overflow: hidden;
+}
+/* 推薦文の写真 */
+.newsSizePics{
+  margin: 5px 0 5px 0;
+  width: 130px;
+  height: 130px;
+  border-style: none;
+  display: block;
+}
+/* 推薦文の枠 */
+.firstBlurb{
+  width: 190px;
+}
+.blurb{
+  width: 190px;
+}
+/* 推薦文の題名 */
+.entry-title{
+  padding-top:10px;
+  color: #FF0000;
+  width: 185px;
+  height: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  overflow: hidden;
+}
+/* 推薦文の内容 */
+.date{
+  padding-top: 5px;
+  width: 185px;
+  color: #FFF;
+  font-size: 14px;
+  line-height: 1.3;
+}
+.circle{
+  padding-right: 10px;
+  width: 18px;
+  height: 18px;
+}
+.letter{
+  padding-top: 5px;
+  width: 167px;
+  color: #1e90ff;
+  font-size: 14px;
+  line-height: 1.3;
+}
+.letter2{
+  padding-top: 5px;
+  width: 167px;
+  height: 40px;
+  color: #FFF;
+  font-size: 14px;
+  line-height: 1.3;
+  overflow: hidden;
+}
+
+.implements{
+  
+}
+
+/* さらに新着を見るリンク */
+#moreNews{
+  padding: 50px 0 20px 0;
+  text-align: right;
+}
+.more{
+  font-size: 16px;
+  color: #555;
+  text-decoration: none;
+  clear: both;
+}
+
+/* メイン左側 */
+#sidebar{
+  width: 331px;
+  height: auto;
+  margin: 10px 0 0 9px;
+  padding-bottom: 20px;
+  float: left;
+}
+/* オーダー */
+#order{
+  width: 330px;
+  height: auto;
+}
+.orderPic{
+  margin: 10px 0 0 15px;
+  width: 300px;
+  height: 100px;
+  background: url(../images/home/order2.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  display: block;
+}
+.orderPic:hover{
+  margin: 10px 0 0 15px;
+  width: 300px;
+  height: 100px;
+  background: url(../images/home/order2_hover.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  display: block;
+}
+/* ブログ */
+#blogs{
+  width: 330px;
+}
+
+.blogPic{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+/*  background: url(../images/home/vision.gif);
+  background-repeat: no-repeat;*/
+  display: block;
+}
+.blogPic:hover{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+/*  background: url(../images/home/vision_hover.gif);
+  background-repeat: no-repeat;*/
+}
+.blogPic1{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+  background: url(../images/home/ogido0.jpg);
+  background-repeat: no-repeat;
+  display: block;
+}
+.blogPic1:hover{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+/*  background: url(../images/home/ogidoH.gif);
+  background-repeat: no-repeat;*/
+  display: block;
+}
+.blogPic2{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+  background: url(../images/home/tatemoto.jpg);
+  background-repeat: no-repeat;
+  display: block;
+}
+.blogPic2:hover{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+/*  background: url(../images/home/tatemotoH.gif);
+  background-repeat: no-repeat;*/
+  display: block;
+}
+.blogPic3{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+  background: url(../images/home/kousei_go.jpg);
+  background-repeat: no-repeat;
+  display: block;
+}
+.blogPic3:hover{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+/*  background: url(../images/home/kousei_goH.gif);
+  background-repeat: no-repeat;*/
+  display: block;
+}
+.blogPic4{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+  background: url(../images/home/sato.jpg);
+  background-repeat: no-repeat;
+  display: block;
+}
+.blogPic4:hover{
+  margin: 10px 0 0 15px;
+  width: 145px;
+  height: 75px;
+/*  background: url(../images/home/satoH.gif);
+  background-repeat: no-repeat;*/
+  display: block;
+}
+/* ユーチューブ動画 */
+#video2{
+  margin-left: 15px;
+}
+iframe{
+  margin-top: 5px;
+  width: 295px; 
+  height: 295px;
+  border: none;
+}
+#media{
+  margin: 15px 0 6px 0;
+  clear: both;
+}
+.fb-activity{
+  margin: 10px 0 0 15px;
+}
+.fb-facepile{
+  border-style: none;
+}
+
+

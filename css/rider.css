@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+/* メインコンテンツ */
+#main{
+  width: 940px;
+  height: auto;
+  margin-top: 5px;
+  overflow: hidden;
+}
+/* メイン右側 */
+#content{
+  padding: 0 8px 0 8px;
+  width: 925px;
+  height: auto;
+  margin-top: 10px;
+}
+/* ライダーの個別表示の設定 */
+.rider{
+  padding-top:5px;
+  color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 3px #444 solid;
+}
+.item{
+  margin: 0 auto;
+  padding-top: 10px;
+  width: 925px;
+  height: auto;
+  float: left;
+}
+.info{
+  margin: 0 5px 20px 5px;
+  width: 220px;
+  height: 180px;
+  float: left;
+}
+.personal{
+  margin-left: 5px;
+  width: 75px;
+  float: right;
+}
+.detail{
+  color: #FFF;
+  text-decoration: none;
+}
+.pics{
+  color: #FFF;
+  width: 140px;
+  height: 170px;
+  text-decoration: none;
+  float: left;
+}
+.soldier{
+  width: 140px;
+  height: 170px;
+}
+
+/* =========  削除  =========
+
+/* メイン左側 
+#sidebar{
+  width: 320px;
+  height: auto;
+  margin-top: 10px;
+  padding: 0 0 20px 9px;
+  float: left;
+}
+/* チームのリンク 
+.teams{
+  padding-top:5px;
+  color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 3px #444 solid;
+}
+.bannersTop{
+  margin-top: 10px;
+}
+.multiply{
+  margin-top: 1px;
+  width: 300px;
+  color: #FFF;
+  font-size: 36px;
+  text-align: center;
+}
+=============================  */

@@ -1,0 +1,49 @@
+﻿@charset "UTF-8";
+
+/* メインコンテンツ */
+#main{
+  width: 940px;
+  height: auto;
+  margin-top: 5px;
+  overflow: hidden;
+}
+/* メイン右側 */
+#content{
+  width: 940px;
+  height: auto;
+  margin-top: 10px;
+}
+
+.brands{
+  margin: 0 8px 0 9px;
+  padding: 5px;
+  color: #FF0000;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 3px #444 solid;
+}
+.wrapper{
+  padding: 5px 9px 5px 9px;
+}
+.banner{
+  
+  float: left;
+}
+.banner{
+  padding: 2px 4px 2px 3px;
+  
+}
+.info{
+  padding-top: 5px;
+  width: 300px;
+  height: 50px;
+  color: #FFF;
+}
+/* メイン左側 */
+#sidebar{
+  width: 340px;
+  height: auto;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  float: left;
+}

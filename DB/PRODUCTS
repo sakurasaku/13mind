@@ -1,0 +1,33 @@
+﻿
+INSERT INTO products
+ (brand, number, extension, description, up_date)
+ VALUES('', '', '', '', NOW()),
+       ('', '', '', '', NOW()),
+       ('', '', '', '', NOW());
+
+**********************************************
+
+
+
+INSERT INTO products
+ (brand, number, extension, description, up_date)
+ VALUES('premium', '001', 'gif', 'test123', NOW()),
+       ('premium', '002', 'gif', '', NOW()),
+       ('premium', '003', 'gif', 'testtest', NOW());
+
+**********************************************
+
+INSERT INTO products
+ (brand, number, extension, description, up_date)
+ VALUES('selfish', '001', 'gif', 'test123', NOW()),
+       ('selfish', '002', 'gif', 'live up', NOW()),
+       ('selfish', '003', 'gif', '', NOW()),
+       ('selfish', '004', 'gif', 'testtest', NOW());
+
+*********************************************
+
+INSERT INTO products
+ (brand, number, extension, description, up_date)
+ VALUES('1031SKATES', '001', 'gif', '', NOW()),
+       ('1031SKATES', '002', 'gif', '', NOW()),
+       ('1031SKATES', '003', 'gif', '', NOW());
