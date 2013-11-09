@@ -27,7 +27,6 @@ if(isset($_SESSION['post_data'])){
   $name = $_SESSION['post_data']['name'];
   $mail = $_SESSION['post_data']['mail'];
   $tel = $_SESSION['post_data']['tel'];
-
   $word = $_SESSION['post_data']['word'];
 }
 
