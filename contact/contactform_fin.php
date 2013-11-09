@@ -7,10 +7,7 @@ require_once('../initialize.inc.php');
 //var_dump($_SESSION['post_data']);
 
 //メールで送る変数に値を取り込んでおく
-//if(isset($_SESSION['post_data'])){
-//ポストの消えるタイミングはどこかでこのIf文の意味が変わる使えるか使えないか
   @$mail_data = $_SESSION['post_data'];
-//}
 
 //いったんSESSIONを空にしておく
   $_SESSION['post_data'] = array();
