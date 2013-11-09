@@ -14,14 +14,14 @@ $sex = '';
 $job = '';
 $word = '';
 $errors = array();
-//$form_data = array();  着いていけず
+//$form_data = array();
 
 //セッションがあったら
 if(isset($_SESSION['post_data'])){
 
   //フォームに送る変数に値を取り込んでおく
 
-//  $form_data = $_SESSION['post_data'];  着いていけず
+//  $form_data = $_SESSION['post_data'];
 
   //多次元配列の取り出し
   $name = $_SESSION['post_data']['name'];
