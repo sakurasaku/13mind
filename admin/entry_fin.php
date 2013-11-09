@@ -17,7 +17,7 @@ $_SESSION['post_data'] = array();
 unset($_SESSION['post_data']);
 
 
-//newsfeedをDBに登録する
+//DBに登録する
   //DBに接続する
 $dbh = new PDO('mysql:host=localhost;dbname=maffi_d', 'maffi', 'maffi');
   //SQLを用意する
